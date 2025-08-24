@@ -21,3 +21,4 @@
 
         # Terraform plan files
         *.tfplan
+        *.exe
